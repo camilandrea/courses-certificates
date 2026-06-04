@@ -6,7 +6,22 @@ Esta sección reúne certificaciones profesionales obtenidas. Pueden estar vigen
 
 | Certificación | Institución | Fecha de emisión | Fecha de expiración | Estado | Archivo | Verificación |
 |---|---|---|---|---|---|---|
-| Pendiente | Pendiente | Pendiente | Pendiente | Caducada | Pendiente | Pendiente |
+| RPA Developer | UiPath | 2019-03-25 | 2020-03-25 | Caducada | [JPG](Certificacion%20Uipath.jpg) | Código visible en certificado |
+
+## Detalle
+
+### RPA Developer
+
+| Campo | Valor |
+|---|---|
+| Nombre oficial | RPA Developer - Certificate of Completion |
+| Institución | UiPath |
+| Fecha de emisión | 2019-03-25 |
+| Vigencia | 1 año desde la fecha de emisión, según el certificado |
+| Fecha de expiración estimada | 2020-03-25 |
+| Estado | Caducada |
+| Archivo | [Certificacion Uipath.jpg](Certificacion%20Uipath.jpg) |
+| Nota | La imagen del certificado contiene un código de verificación visible. |
 
 ## Estados posibles
 
@@ -23,8 +38,8 @@ Cada certificación debería tener su propia carpeta:
 
 ```text
 certifications/
-`-- nombre-de-la-certificacion/
-    |-- certificado.pdf
+`-- uipath-rpa-developer/
+    |-- certificado.jpg
     `-- README.md
 ```
 
@@ -39,7 +54,7 @@ El README interno de cada certificación puede incluir:
 | Estado | Vigente, caducada, sin expiración o en progreso. |
 | ID o código | Código de credencial, si existe y es seguro publicarlo. |
 | Archivo | Nombre del documento respaldado. |
-| Verificación | Enlace público para validar la certificación, si existe. |
+| Verificación | Enlace público para validar la certificación, código o nota si existe. |
 
 ## Nota sobre credenciales
 
