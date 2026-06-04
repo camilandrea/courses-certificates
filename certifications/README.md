@@ -1,25 +1,25 @@
 # Certificaciones
 
-Esta seccion reune certificaciones profesionales obtenidas. Pueden estar vigentes o caducadas; ambas se conservan como respaldo historico de formacion y experiencia.
+Esta sección reúne certificaciones profesionales obtenidas. Pueden estar vigentes o caducadas; ambas se conservan como respaldo histórico de formación y experiencia.
 
 ## Certificaciones registradas
 
-| Certificacion | Institucion | Fecha de emision | Fecha de expiracion | Estado | Archivo | Verificacion |
+| Certificación | Institución | Fecha de emisión | Fecha de expiración | Estado | Archivo | Verificación |
 |---|---|---|---|---|---|---|
 | Pendiente | Pendiente | Pendiente | Pendiente | Caducada | Pendiente | Pendiente |
 
 ## Estados posibles
 
-| Estado | Descripcion |
+| Estado | Descripción |
 |---|---|
-| Vigente | La certificacion todavia se encuentra activa. |
-| Caducada | La certificacion expiro, pero se mantiene como respaldo historico. |
-| Sin expiracion | La certificacion no declara fecha de vencimiento. |
-| En progreso | La certificacion esta en preparacion o pendiente de emision. |
+| Vigente | La certificación todavía se encuentra activa. |
+| Caducada | La certificación expiró, pero se mantiene como respaldo histórico. |
+| Sin expiración | La certificación no declara fecha de vencimiento. |
+| En progreso | La certificación está en preparación o pendiente de emisión. |
 
 ## Formato recomendado para agregar certificaciones
 
-Cada certificacion deberia tener su propia carpeta:
+Cada certificación debería tener su propia carpeta:
 
 ```text
 certifications/
@@ -28,20 +28,20 @@ certifications/
     `-- README.md
 ```
 
-El README interno de cada certificacion puede incluir:
+El README interno de cada certificación puede incluir:
 
-| Campo | Descripcion |
+| Campo | Descripción |
 |---|---|
-| Nombre | Nombre oficial de la certificacion. |
-| Institucion | Entidad certificadora. |
-| Fecha de emision | Fecha en que fue obtenida. |
-| Fecha de expiracion | Fecha de vencimiento, si aplica. |
-| Estado | Vigente, caducada, sin expiracion o en progreso. |
-| ID o codigo | Codigo de credencial, si existe y es seguro publicarlo. |
+| Nombre | Nombre oficial de la certificación. |
+| Institución | Entidad certificadora. |
+| Fecha de emisión | Fecha en que fue obtenida. |
+| Fecha de expiración | Fecha de vencimiento, si aplica. |
+| Estado | Vigente, caducada, sin expiración o en progreso. |
+| ID o código | Código de credencial, si existe y es seguro publicarlo. |
 | Archivo | Nombre del documento respaldado. |
-| Verificacion | Enlace publico para validar la certificacion, si existe. |
+| Verificación | Enlace público para validar la certificación, si existe. |
 
 ## Nota sobre credenciales
 
-Antes de publicar una certificacion en una pagina web, revisar si el documento contiene datos personales sensibles, codigos privados, direcciones, identificadores internos o informacion que no deberia quedar publica.
+Antes de publicar una certificación en una página web, revisar si el documento contiene datos personales sensibles, códigos privados, direcciones, identificadores internos o información que no debería quedar pública.
 

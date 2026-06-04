@@ -1,22 +1,22 @@
 # Cursos
 
-Esta seccion agrupa cursos, talleres, diplomas y programas de formacion realizados. La idea es mantenerlos ordenados por categoria para facilitar su consulta y futura publicacion en formato web.
+Esta sección agrupa cursos, talleres, diplomas y programas de formación realizados. La idea es mantenerlos ordenados por categoría para facilitar su consulta y futura publicación en formato web.
 
-## Categorias sugeridas
+## Categorías sugeridas
 
-| Categoria | Descripcion |
+| Categoría | Descripción |
 |---|---|
 | Desarrollo web | Cursos relacionados con HTML, CSS, JavaScript, TypeScript, React, Next.js, backend, APIs y bases de datos. |
-| Programacion | Fundamentos, estructuras de datos, algoritmos, lenguajes de programacion y buenas practicas. |
-| Datos | Analisis de datos, visualizacion, SQL, Python, BI, estadistica o herramientas relacionadas. |
-| Cloud y DevOps | Cloud computing, despliegue, contenedores, automatizacion, CI/CD o infraestructura. |
-| Ciberseguridad | Seguridad informatica, buenas practicas, redes, auditoria o certificaciones introductorias. |
-| Diseno y producto | UX/UI, accesibilidad, prototipado, diseno de interfaces o gestion de producto. |
-| Otros | Cursos que no calcen claramente en las categorias anteriores. |
+| Programación | Fundamentos, estructuras de datos, algoritmos, lenguajes de programación y buenas prácticas. |
+| Datos | Análisis de datos, visualización, SQL, Python, BI, estadística o herramientas relacionadas. |
+| Cloud y DevOps | Cloud computing, despliegue, contenedores, automatización, CI/CD o infraestructura. |
+| Ciberseguridad | Seguridad informática, buenas prácticas, redes, auditoría o certificaciones introductorias. |
+| Diseño y producto | UX/UI, accesibilidad, prototipado, diseño de interfaces o gestión de producto. |
+| Otros | Cursos que no calcen claramente en las categorías anteriores. |
 
 ## Cursos registrados
 
-| Curso | Institucion | Categoria | Anio | Archivo | Verificacion |
+| Curso | Institución | Categoría | Año | Archivo | Verificación |
 |---|---|---|---|---|---|
 | Pendiente | Pendiente | Pendiente | Pendiente | Pendiente | Pendiente |
 
@@ -34,13 +34,13 @@ courses/
 
 El README interno de cada curso puede incluir:
 
-| Campo | Descripcion |
+| Campo | Descripción |
 |---|---|
 | Nombre | Nombre oficial del curso. |
-| Institucion | Plataforma, universidad, empresa o entidad formadora. |
-| Fecha | Anio o fecha de finalizacion. |
-| Duracion | Horas, semanas o periodo aproximado, si se conoce. |
+| Institución | Plataforma, universidad, empresa o entidad formadora. |
+| Fecha | Año o fecha de finalización. |
+| Duración | Horas, semanas o periodo aproximado, si se conoce. |
 | Competencias | Principales temas o habilidades desarrolladas. |
 | Archivo | Nombre del documento respaldado. |
-| Verificacion | URL publica de validacion, si existe. |
+| Verificación | URL pública de validación, si existe. |
 
